@@ -69,7 +69,7 @@
 		<form method="POST" autocomplete="off" action="<?php $_SERVER['SCRIPT_NAME']?>">
             <div class="signIn">
                 <input type="text" placeholder="Log-in" name="login" />
-                <input type="text" placeholder="Parola" name="pass" size="12" maxlength="10" /><br />
+                <input type="password" placeholder="Parola" name="pass" size="12" maxlength="10" /><br />
                 <input type="submit" value="Salveaza" />
                 <input type="reset" value="Șterge" />
             </div>

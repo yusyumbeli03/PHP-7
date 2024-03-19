@@ -26,3 +26,4 @@ Ivanov	Ion	099887766	ion@mail.ru	2022-10-03	2022-10-07	1	Lux	Nu am
 Afanasiu	Ana	099887766	ana@gmail.com	2022-10-19	2022-10-22	1	Lux	Nu am
 erty	kjhg	2582	jujujuj@mail.ru	2024-03-07	2024-03-21	3	Lux	mnhbgvfvgbhnjk
 Iusiumbeli	Aliona	078383883	yushel@mail.ru	2024-03-18	2024-03-24	1	Lux	nu am
+Aliona	Iusiumbeli	077871131	yushelen@mail.ru	2024-03-19	2024-03-24	2	Lux	no !
